@@ -13,6 +13,8 @@ mvn test
 
 ## H2 Database
 http://localhost:8080/h2
+username: sa
+password: 
 
 ## Postman Collection (Contains All Possible Requests)
 https://www.getpostman.com/collections/5f78ab06858892072155
